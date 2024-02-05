@@ -4,8 +4,8 @@ import MyTab from './components/MyTab';
 
 function App() {
   const containerStyle = {
-    margin: '20px',    // Adjust margin as needed
-    padding: '20px'    // Adjust padding as needed
+    margin: '20px',    
+    padding: '20px'    
   };
 
   return (
