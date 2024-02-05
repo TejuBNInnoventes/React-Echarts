@@ -79,7 +79,8 @@ const Chart1 = () => {
                     barCategoryGap: '40%',
                     itemStyle: {
                         barBorderRadius: [10, 10, 0, 0],
-                        color: 'rgb(215,187,251)'
+                       
+                        color: 'rgb(105,65,198)'
                     },
                     label: {
                         show: true,
@@ -100,7 +101,7 @@ const Chart1 = () => {
                     barCategoryGap: '40%',
                     itemStyle: {
                         barBorderRadius: [10, 10, 0, 0],
-                        color: 'rgb(105,65,198)'
+                        color: 'rgb(215,187,251)',
                     },
                     label: {
                         show: true,

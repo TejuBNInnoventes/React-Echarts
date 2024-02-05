@@ -14,9 +14,9 @@ const MyTab = () => {
   return (
     <Tabs>
       <TabList style={tabListStyle}>
-        <Tab>Tab 1</Tab>
-        <Tab>Tab 2</Tab>
-        <Tab>Tab 3</Tab>
+        <Tab>Tab chart 1</Tab>
+        <Tab>Tab chart 2</Tab>
+        <Tab>Tab chart 3</Tab>
       </TabList>
 
       <TabPanel>
